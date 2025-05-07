@@ -9,6 +9,5 @@ class DynamicContentPage {
       return cy.get('.dynamic-item');
     }
   }
-  
   export default DynamicContentPage;
   
